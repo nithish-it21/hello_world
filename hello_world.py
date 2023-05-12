@@ -1,6 +1,6 @@
 #variables
 x = 5
-y = "John"
+y = "mani"
 print(x)
 print(y)
 
